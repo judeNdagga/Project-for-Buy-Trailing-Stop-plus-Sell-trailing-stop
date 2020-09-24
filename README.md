@@ -8,3 +8,7 @@ FEATURES:
 3. Buy limit manipulation.
 4. Sell limit manipulation.
 5. Trade position modification.
+6. Editable microlot size.
+7. Basic Mathematical Calculations
+8. Calculation and Reversion of mean.
+9. Chart Display Model.
